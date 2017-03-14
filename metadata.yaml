@@ -1,5 +1,8 @@
 _repo: The-Beautiful-and-Damned_9830
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fitzgerald, F. Scott (Francis Scott)
@@ -16,6 +19,8 @@ description: "The Beautiful and Damned, first published by Scribner's in 1922, i
   \ in this novel are complex, especially with respect to marriage and intimacy. The\
   \ work is generally considered to have drawn upon and be based on Fitzgerald's relationship\
   \ and marriage with his wife Zelda Fitzgerald.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9830#The-Beautiful-and-Damned
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
